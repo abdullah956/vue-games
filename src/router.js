@@ -1,7 +1,7 @@
 import { createWebHistory, createRouter } from "vue-router";
 
-import AnagramGame from "./app/AnagramGame.vue";
-import MathGame from "./app/MathGame.vue";
+import AnagramGame from "./components/AnagramGame.vue";
+import MathGame from "./components/MathGame.vue";
 
 const routes = [
     {
